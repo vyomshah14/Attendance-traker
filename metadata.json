@@ -1,0 +1,5 @@
+{
+  "name": "Attendance Tracker",
+  "description": "A smart attendance management application for students. Calculate attendance requirements, manage subjects, and parse timetables using AI.",
+  "requestFramePermissions": []
+}
